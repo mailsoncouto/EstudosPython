@@ -26,3 +26,6 @@ for i in range(6):
     size +=  20
 
 window.exitonclick()
+
+
+# Teste
